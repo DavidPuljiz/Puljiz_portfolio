@@ -1,21 +1,21 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: accomplishments
+# widget: accomplishments
 
-# This file represents a page section.
-headless: true
+# # This file represents a page section.
+# headless: true
 
-# Order that this section appears on the page.
-weight: 40
+# # Order that this section appears on the page.
+# weight: 40
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Academic supervision'
-subtitle: 'Bachelor and Master Theses'
+# # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+# title: 'Academic supervision'
+# subtitle: 'Bachelor and Master Theses'
 
-# Date format
-#   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
+# # Date format
+# #   Refer to https://docs.hugoblox.com/customization/#date-format
+# date_format: Jan 2006
 
 # item:
 #   - certificate_url: 

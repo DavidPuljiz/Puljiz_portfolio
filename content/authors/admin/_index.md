@@ -64,7 +64,7 @@ social:
 email: "dpuljiz@gmail.com"
 ---
 
-Robotics Engineer with over 10 years of experience in developing novel Human-Robot Interaction methods through the use of Mixed Reality, Head-Mounted Displays and Machine Vision. I have worked on numerous projects and supervised over 15 Bachelor and Master students.
+I am a Robotics Engineer with over 10 years of experience in developing novel Human-Robot Interaction methods through the use of Mixed Reality, Head-Mounted Displays and Machine Vision. 
 
 
 ## Skills
