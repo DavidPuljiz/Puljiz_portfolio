@@ -105,3 +105,8 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+
+contact:
+  provider: formspree  # Or another provider
+  formspree:
+    id: your-formspree-id
