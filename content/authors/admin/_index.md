@@ -27,18 +27,6 @@ interests:
 - Industrial Robotics
 - 3D Mapping and Object Recognition
 
-education:
-  courses:
-  - course: PhD in Robotics and Informatics
-    institution: Karlsruhe Institute of Technology
-    year: 2024
-  - course: MSc in Electrical Engineering and Information Technology
-    institution: University of Zagreb-FER
-    year: 2013
-  - course: BSc in Electrical Engineering and Information Technology
-    institution: University of Zagreb-FER
-    year: 2011
-
 # Social/Academic Networking
 social:
   - icon: envelope
