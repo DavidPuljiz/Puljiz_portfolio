@@ -104,9 +104,9 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: false
+    enable: true
 
 contact:
-  provider: formspree  # Or another provider
+  provider: formspree
   formspree:
-    id: your-formspree-id
+    id: your-formspree-id  # Replace with your actual Formspree ID
