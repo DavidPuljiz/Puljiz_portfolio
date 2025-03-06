@@ -9,33 +9,24 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://docs.hugoblox.com/customization/#date-format
-date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
     company: Institute for Robotics and Autonomous Systems
     company_url: 'https://www.h-ka.de/en/iras/profile'
     company_logo: 
-    location: Karlsruhe, Germany
+    location: Karlsruhe University of Applied Sciences (HKA), Germany
     date_start: '2022-10-01'
     date_end: '2024-09-30'
     description: |2-
         Project RoLe4D - "Robot Learning in 4-Dimensions"
         
-        * Simplified teaching of robotics through virtual reality environments, gamification concepts and intuitive data visualization
-        * Co-authored 3 research papers about the use of mixed reality in industrial and educational settings
+        * Development of an educational framework to improve robotics teaching
+        * Integration of immersive virtual reality environments
+        * Implementation of gamification concepts to enhance student engagement
+        * Design of interactive learning modules that bridge theoretical concepts with practical applications
         * Prepared and conducted numerous project demonstrations in the "XR Lab" of the University
         * Technologies: C#, Unity3D, HTC Vive Pro
+        * Supervisor: Prof. Dr.-Ing. Fahmi Bellalouna
 
   - title: Research Assistant
     company: Intelligent Process Automation and Robotics Lab
@@ -45,27 +36,49 @@ experience:
     date_start: '2014-06-01'
     date_end: '2022-09-30'
     description: |2-
-        Projects included ReApp and SafeLog
+        Projects: ReApp - "Reusable robot applications for flexible robot systems based on ROS Industrial", SafeLog - "Safe human-robot interaction in logistic applications for highly flexible warehouses", SkillPro, QBIIK, ROBDEKON, and other initiatives
         
-        * Main research topics: Augmented Reality, Human-Robot Interaction, Machine Vision, Vision-guided robot control
-        * Completed PhD dissertation on end-to-end portable system for human-robot interaction based on Microsoft HoloLens
-        * Supervised 16 Bachelor and Master students, numerous project practical and seminar students
-        * Published 15 peer-reviewed papers in venues including IROS, HRI and RCIM
-        * Technologies: C++, C#, CMake, Python, Unity3D, OpenCV, PCL, ROS, MoveIt, PyTorch, HoloLens, HTC Vive, KUKA and UR robots
+        * Developed an end-to-end portable system for human-robot interaction based on the Microsoft HoloLens, focused on industrial robot arms
+        * Created comprehensive solution enabling intuitive robot workspace definition, programming, and safe interaction
+        * 3D mapping of surroundings via depth sensors and stereo cameras
+        * 3D object recognition systems for workspace awareness
+        * Interactive tools for static obstacles and no-go zones definitions
+        * Versatile robot programming methods (holographic waypoints, hand guidance, tracked input devices)
+        * Human tracking and safety systems within robot workspace
+        * Human intention estimation algorithms adapted from SafeLog work
+        * Real-time moving object detection
+        * Technologies: C++, C#, CMake, Python, Unity3D, OpenCV, PCL, ROS, Moveit, PyTorch, Microsoft HoloLens 1, HoloLens 2, HTC Vive, KUKA KR-16, KR-5, Universal Robotics UR-10, ART DTRACK3, SICK PIM-60/Inspector, TriSpector1000, Custom Hardware
+        * Supervisors: Prof. Dr.-Ing. habil. Björn Hein, Prof. Dr. Sc. Ivan Petrovic
 
   - title: Internship Corporate Research
-    company: CR/APA2, Advanced Production and Automation, Bosch GmbH
+    company: CR/APA2, Advanced Production and Automation
     company_url: 'https://www.bosch.com/'
     company_logo: 
-    location: Germany
+    location: Bosch GmbH, Germany
     date_start: '2013-08-01'
     date_end: '2013-12-31'
     description: |2-
-        * Automated part inspection using a random forest classifier
-        * Digital 3D model reconstruction of parts from silhouettes using precision equipment
-        * Technologies: C++, CMake, HALCON, Precision Turntable, HD Monocular Grayscale Camera
+        * Engineering of an automated part inspection system using random forest classifiers for defect detection and quality control
+        * Reconstruction of digital 3D models of industrial parts using multi-view silhouette technique
+        * Digitization of physical components for inspection and analysis
+        * Technologies: C++, CMake, HALCON, Precision Turntable, HD Monocular Grayscale Camera, Monochromatic Illumination with diffusion plate
+        * Supervisor: Dr. Axel Wendt
 
-  - title: Student Assistant
+  - title: M.Sc Thesis
+    company: Faculty of Electrical Engineering and Computing
+    company_url: 'https://www.fer.unizg.hr/en'
+    company_logo: 
+    location: University of Zagreb, Croatia
+    date_start: '2011-10-01'
+    date_end: '2013-07-31'
+    description: |2-
+        * Implemented insect-like swarm exploration and aggregation on a fleet of simple, small educational mobile robots
+        * Incorporated infrared emitters to robots enabling simple message passing between units
+        * Developed stochastic finite state machines with transitions governed by sensor signals and probability distributions
+        * Technologies: C, ASM, Fleet of Small Educational Mobile Robots, Overhead Monocular Camera, IR Emitters and Detectors
+        * Supervisor: Prof. Dr. Sc. Stjepan Bogdan
+
+  - title: B.Sc. Thesis
     company: Faculty of Electrical Engineering and Computing
     company_url: 'https://www.fer.unizg.hr/en'
     company_logo: 
@@ -73,8 +86,11 @@ experience:
     date_start: '2009-01-01'
     date_end: '2012-12-31'
     description: |2-
-        * Assisted in laboratory exercises including Elements of Automation systems, Electromagnetic fields, and Electronics
-        * Helped students with troubleshooting and answering questions during lab sessions
+        * Performed simulations of different search strategies for autonomous robots with limited sensor coverage and computational power
+        * Compared stochastic (Brownian motion, Levy walk) and deterministic methods (spiral and zig-zag patterns)
+        * Laboratory exercises Assistant in Elements of Automation systems, Electromagnetic fields, and Electronics
+        * Technologies: Matlab, Simulink
+        * Supervisor: Prof. Dr. Sc. Stjepan Bogdan
 
 design:
   columns: '1'
