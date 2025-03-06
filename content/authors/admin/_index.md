@@ -69,11 +69,11 @@ I am a Robotics Engineer with over 10 years of experience in developing novel Hu
 
 ## Skills
 
-- **Programming Languages**: C++, C#, Python
-- **Frameworks**: ROS, PCL, OpenCV, MoveIT, PyTorch
-- **Simulation**: MATLAB/Simulink, Unity3D, MRTK
-- **Robotics & Sensing**: Robot Control, Depth sensing, Object Tracking, 3D Mapping
-- **Advanced Systems**: Digital Twins, VR/AR Environments, Distributed Systems
+- **Robotics**: C++, Python, Unix, Simulink, ROS, MoveIT, Vision-based Control, Trajectory Generation, Workflows, Human-Robot Interaction
+- **Mixed Reality**: C#, Unity3D, MRTK, Picking Assistance, Situational Awareness, AR visualization of robot States and Data, VR Digital Twins, VR Robot Teleoperation
+- **Machine Vision**: C++, OpenCV, PCL, Depth/Monocular/Stereo Camera, Mapping, 3D Object Detection, Tracking of Objects/Hands/IR Markers
+- **Machine Learning**: Python, PyTorch, TensorFlow, Classifiers (Random Forests, SVMs), CNNs for Object and Hand Detection, Data Analysis, Feature Engineering
+- **Documentation and Editing**: GitHub, LaTeX, Office Suite, GIMP
 
 ## Languages
 

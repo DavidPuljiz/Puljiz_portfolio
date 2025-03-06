@@ -26,7 +26,7 @@ experience:
         * Design of interactive learning modules that bridge theoretical concepts with practical applications
         * Prepared and conducted numerous project demonstrations in the "XR Lab" of the University
         * Technologies: C#, Unity3D, HTC Vive Pro
-        * Supervisor: Prof. Dr.-Ing. Fahmi Bellalouna
+
 
   - title: Research Assistant
     company: Intelligent Process Automation and Robotics Lab
@@ -48,7 +48,7 @@ experience:
         * Human intention estimation algorithms adapted from SafeLog work
         * Real-time moving object detection
         * Technologies: C++, C#, CMake, Python, Unity3D, OpenCV, PCL, ROS, Moveit, PyTorch, Microsoft HoloLens 1, HoloLens 2, HTC Vive, KUKA KR-16, KR-5, Universal Robotics UR-10, ART DTRACK3, SICK PIM-60/Inspector, TriSpector1000, Custom Hardware
-        * Supervisors: Prof. Dr.-Ing. habil. Björn Hein, Prof. Dr. Sc. Ivan Petrovic
+
 
   - title: Internship Corporate Research
     company: CR/APA2, Advanced Production and Automation
@@ -62,7 +62,7 @@ experience:
         * Reconstruction of digital 3D models of industrial parts using multi-view silhouette technique
         * Digitization of physical components for inspection and analysis
         * Technologies: C++, CMake, HALCON, Precision Turntable, HD Monocular Grayscale Camera, Monochromatic Illumination with diffusion plate
-        * Supervisor: Dr. Axel Wendt
+
 
   - title: M.Sc Thesis
     company: Faculty of Electrical Engineering and Computing
@@ -76,7 +76,7 @@ experience:
         * Incorporated infrared emitters to robots enabling simple message passing between units
         * Developed stochastic finite state machines with transitions governed by sensor signals and probability distributions
         * Technologies: C, ASM, Fleet of Small Educational Mobile Robots, Overhead Monocular Camera, IR Emitters and Detectors
-        * Supervisor: Prof. Dr. Sc. Stjepan Bogdan
+
 
   - title: B.Sc. Thesis
     company: Faculty of Electrical Engineering and Computing
@@ -90,7 +90,7 @@ experience:
         * Compared stochastic (Brownian motion, Levy walk) and deterministic methods (spiral and zig-zag patterns)
         * Laboratory exercises Assistant in Elements of Automation systems, Electromagnetic fields, and Electronics
         * Technologies: Matlab, Simulink
-        * Supervisor: Prof. Dr. Sc. Stjepan Bogdan
+
 
 design:
   columns: '1'
