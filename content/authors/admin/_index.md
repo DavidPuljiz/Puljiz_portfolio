@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human-Robot Interaction, Mixed Reality, Machine Vision, and Industrial Robotics.
 
-interests:
-- Human-Robot Interaction
-- Mixed Reality & AR/VR
-- Machine Vision
-- Industrial Robotics
-- 3D Mapping and Object Recognition
+# interests:
+# - Human-Robot Interaction
+# - Mixed Reality & AR/VR
+# - Machine Vision
+# - Industrial Robotics
+# - 3D Mapping and Object Recognition
 
 # Social/Academic Networking
 social:
@@ -46,7 +46,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: static/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "dpuljiz@gmail.com"
